@@ -1,5 +1,6 @@
 # AlephBERT Production for sentence completion
-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/SrmBBKP" data-context="false" ><a href="//imgur.com/a/SrmBBKP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgur.com/D5PWCUw"><img src="https://imgur.com/D5PWCUw.gif"></img></a>
+
 ## setup:
 
 If you are using a unix-based machine (aka a mac or a machine with a linux OS),
@@ -7,7 +8,7 @@ you dont need to clone anything by yourself! Just run
 
 ```
 curl -L -o setup.sh https://raw.githubusercontent.com/maxkrakauer/BERT/production/setup.sh
-sudo chmod 755
+sudo chmod 755 setup.sh
 sudo ./setup.sh
 ```
 
