@@ -1,5 +1,5 @@
 # AlephBERT Production for sentence completion
-
+- <blockquote class="imgur-embed-pub" lang="en" data-id="a/SrmBBKP" data-context="false" ><a href="//imgur.com/a/SrmBBKP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ## setup:
 
 If you are using a unix-based machine (aka a mac or a machine with a linux OS),
